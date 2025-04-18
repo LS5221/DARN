@@ -5,7 +5,7 @@ This folder holds the source code of the proposed system DARN , including
 
   - Model implementations (in ./models)
   - Utility functions (in ./utils)
-  - Main algorithm (in ./train_caFEDAVG.py)
+  - Main algorithm (in ./train_DARN.py)
 ## Requirements
 
 To install requirements:
@@ -18,10 +18,10 @@ pip install -r requirements.txt
 
 All of the original datasets can refer to the links:
 
-  - News: https://archive.ics.uci.edu/dataset/332/online+news+popularity          
-  - HI: https://www.openml.org/search?type=data&status=active&id=23512&sort=runs       
-  - gas: https://archive.ics.uci.edu/dataset/322/gas+sensor+array+under+dynamic+gas+mixtures   
-  - temperature: https://archive.ics.uci.edu/dataset/514/bias+correction+of+numerical+prediction+model+temperature+forecast 
+  - Bank: https://archive.ics.uci.edu/dataset/222/bank+marketing    
+  - Higgs: https://www.openml.org/search?type=data&status=active&id=23512&sort=runs       
+  - Gas: https://archive.ics.uci.edu/dataset/322/gas+sensor+array+under+dynamic+gas+mixtures   
+  - Covertype: https://archive.ics.uci.edu/dataset/31/covertype 
 
 
 ## Usage
